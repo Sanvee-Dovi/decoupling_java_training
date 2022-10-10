@@ -66,3 +66,8 @@
 2022-10-10 10:21:57.724: simulation: jeu fini
 2022-10-10 10:21:57.728: simulation: Converge au bout de : 32 iterations
 2022-10-10 10:21:57.746: simulation: Run time : 00:00:00:94
+
+2022-10-10 10:50:33.914: simulation: le nombre saisi correspond bel et bien : 68
+2022-10-10 10:50:33.976: simulation: jeu fini
+2022-10-10 10:50:33.976: simulation: Converge au bout de : 32 iterations
+2022-10-10 10:50:33.992: simulation: Run time : 00:00:00:188
