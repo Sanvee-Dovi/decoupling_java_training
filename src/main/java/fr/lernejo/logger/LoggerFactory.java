@@ -5,16 +5,20 @@ import java.time.format.DateTimeFormatter;
 
 public class LoggerFactory {
 
+
     public static  Logger getLogger(String name){
-            FileLogger fileLogger = new FileLogger("C:\\Users\\hp\\TP_archi_log\\decoupling_java_training\\data.txt");
-            return new Logger() {
+
+        ConsoleLogger consoleLogger = new ConsoleLogger();
+        FileLogger fileLogger = new FileLogger("data.txt");
+        ContextualLogger contextualLogger = new ContextualLogger(name, fileLogger);
+        ContextualLogger contextualLogger1 = new ContextualLogger(name, consoleLogger);
+        CompositeLogger compositeLogger = new CompositeLogger(contextualLogger,contextualLogger1);
+
+        return new Logger() {
             @Override
             public void log(String message) {
-               fileLogger.log(LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss.SSS")) + ": " + name + ": " + message);
+                compositeLogger.log(message);
             }
         };
-        //ContextualLogger contextualLogger = new ContextualLogger(name,logger);
-
-       // return contextualLogger.log(name);
     }
 }

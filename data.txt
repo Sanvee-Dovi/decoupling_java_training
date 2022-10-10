@@ -1,8 +1,68 @@
-2022-10-10 06:52:33.371: Robot: le nombre saisi est plus petit
-2022-10-10 06:52:33.400: Robot: le nombre saisi est plus petit
-2022-10-10 06:52:33.400: Robot: le nombre saisi est plus grand
-2022-10-10 06:52:33.401: Robot: le nombre saisi est plus grand
-2022-10-10 06:52:33.401: Robot: le nombre saisi est plus grand
-2022-10-10 06:52:33.406: simulation: le nombre saisi correspond bel et bien : 76
-2022-10-10 06:52:33.407: simulation: jeu fini
-2022-10-10 06:52:33.420: simulation: Run time : 00:00:00:58
+
+2022-10-10 10:21:57.659: Robot: le nombre saisi est plus petit
+2022-10-10 10:21:57.686: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.686: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.686: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.687: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.687: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.688: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.689: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.689: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.690: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.691: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.691: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.692: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.692: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.692: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.693: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.693: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.694: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.695: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.696: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.696: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.697: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.697: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.698: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.700: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.700: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.701: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.701: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.701: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.702: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.703: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.703: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.704: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.704: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.704: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.704: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.706: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.706: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.707: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.707: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.707: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.708: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.708: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.709: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.709: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.710: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.710: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.711: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.711: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.712: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.712: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.713: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.713: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.714: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.714: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.715: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.715: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.716: Robot: le nombre saisi est plus petit
+2022-10-10 10:21:57.716: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.717: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.717: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.718: Robot: le nombre saisi est plus petit
+2022-10-10 10:21:57.718: Robot: le nombre saisi est plus grand
+2022-10-10 10:21:57.723: simulation: le nombre saisi correspond bel et bien : 68
+2022-10-10 10:21:57.724: simulation: jeu fini
+2022-10-10 10:21:57.728: simulation: Converge au bout de : 32 iterations
+2022-10-10 10:21:57.746: simulation: Run time : 00:00:00:94

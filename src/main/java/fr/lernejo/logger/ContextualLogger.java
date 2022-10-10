@@ -13,6 +13,6 @@ public class ContextualLogger implements Logger {
     }
     @Override
     public void log(String message) {
-        this.logger.log(LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss.SSS")) + " " + logger.getClass().getName() + " " + message);
+        this.logger.log(LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss.SSS")) + ": " + name + ": " + message);
     }
 }
