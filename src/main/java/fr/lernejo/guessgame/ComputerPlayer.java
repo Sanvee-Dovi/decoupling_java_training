@@ -1,7 +1,11 @@
 package fr.lernejo.guessgame;
 
+import fr.lernejo.logger.Logger;
+import fr.lernejo.logger.LoggerFactory;
+
 public class ComputerPlayer implements Player{
 
+    Logger logger = LoggerFactory.getLogger("Robot");
 
     @Override
     public long askNextGuess(long min , long max)  {
@@ -18,9 +22,9 @@ public class ComputerPlayer implements Player{
     public void respond(boolean lowerOrGreater) {
 
         if(lowerOrGreater){
-            System.out.println("le nombre saisi est plus grand");
+            logger.log("le nombre saisi est plus grand");
         }else {
-            System.out.println("le nombre saisi est plus petit");
+            logger.log("le nombre saisi est plus petit");
         }
     }
 

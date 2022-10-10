@@ -26,9 +26,9 @@ public class HumanPlayer implements Player{
     @Override
     public void respond(boolean lowerOrGreater) {
          if(lowerOrGreater){
-             System.out.println("le nombre saisi est plus grand");
+             logger.log("le nombre saisi est plus grand");
          }else {
-             System.out.println("le nombre saisi est plus petit");
+             logger.log("le nombre saisi est plus petit");
          }
     }
 

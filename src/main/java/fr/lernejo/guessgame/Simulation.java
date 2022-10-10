@@ -20,6 +20,7 @@ public class Simulation {
 
         public Simulation(Player player) {
             this.player  = player;
+            //logger = LoggerFactory.getLogger(player.getClass().getName());
         }
 
         public void initialize(long numberToGuess) {
